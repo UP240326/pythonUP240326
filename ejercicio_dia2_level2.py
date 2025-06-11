@@ -34,3 +34,9 @@ radius= float(input ("Put the radius of the circle to calculate the new area:"))
 area_new = (3.14* (radius**2))
 print("Area of your new circle is:", area_new)
 # Level 2 Number 13
+name_1=input("Put your first name:")
+last_name_1=input("Put your last name:")
+country_1=input("Put your country:")
+age_1=int(input("Put your age:"))
+print("Your name is:", name_1, "Your last name is:", last_name_1, "You are from:", country_1, "and you are", age_1, "years old.")
+
