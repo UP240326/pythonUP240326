@@ -1,5 +1,12 @@
-# Introduction
-# Day 1 - 30DaysOfPython Challenge
+#Level 3
+print(type([1, 2, 3]))           # List
+print(type({'name':'Asabeneh'})) # Dictionary
+print(type({9.8, 3.14, 2.7}))    # Set
+print(type((9.8, 3.14, 2.7)))    # Tuple
+print(type(3 == 3))              # Bool
+print(type(3 >= 3))              # Bool
+
+#Level 4
 
 print(3 + 2)   # addition(+)
 print(3 - 2)   # subtraction(-)
